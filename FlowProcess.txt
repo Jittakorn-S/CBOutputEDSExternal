@@ -1,0 +1,2 @@
+Unzip in \\172.16.0.115\CBALL เข้า  \\172.16.0.115\WaferMapping เป็นงานใหม่ประจำวัน
+Task จะ Unzip ไปที่ \\172.16.0.115\WaferMapping
