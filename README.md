@@ -1,6 +1,6 @@
 # CBOutputEDSExternal
 
-CBOutputEDSExternal is a .NET task application for auto unzip file to folder.
+CBOutputEDSExternal is a .NET Framework task application for auto unzip file to folder.
 
 ## Installation
 
