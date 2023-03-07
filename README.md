@@ -1,6 +1,6 @@
-# CBOutputEDSExternal
+# CB Output EDS External
 
-CBOutputEDSExternal is a .NET Framework task application for auto unzip file to folder.
+CB Output EDS External is a .NET Framework task application for auto unzip file to folder.
 
 ## Installation
 
